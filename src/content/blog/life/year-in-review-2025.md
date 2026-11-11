@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 2025 年终：写得不多，但都写完了
 link: year-in-review-2025
 catalog: true

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 主题定制指南
 link: theme-customization
 catalog: true

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 示例周刊 Vol.2 | 把手边的工具用顺
 link: weekly-example-2
 catalog: true

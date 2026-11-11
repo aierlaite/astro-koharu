@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 在公开文章里藏一小段：局部加密块的用法
 link: partial-encryption
 catalog: true

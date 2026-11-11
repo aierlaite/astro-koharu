@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 自定义关键词示例
 link: custom-keywords
 date: 2026-04-05 18:43:11

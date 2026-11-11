@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 一篇 Markdown 在构建时经过了什么
 link: markdown-pipeline
 catalog: true

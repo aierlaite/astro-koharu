@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Infographic 信息图指南
 link: infographic-guide
 date: 2026-01-03 12:00:00

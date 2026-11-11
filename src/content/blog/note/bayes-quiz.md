@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 用一道体检题复习贝叶斯公式
 link: bayes-quiz
 catalog: true

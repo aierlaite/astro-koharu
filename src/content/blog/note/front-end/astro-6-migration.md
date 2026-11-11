@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 从 Astro 5 到 Astro 6：astro-koharu 的一次完整迁移实录
 link: astro-6-migration
 catalog: true

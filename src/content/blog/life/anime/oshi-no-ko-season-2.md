@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 《我推的孩子》第二季观后感：一出舞台剧，拍了大半季
 link: oshi-no-ko-season-2
 catalog: true
