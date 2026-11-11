@@ -1741,10 +1741,10 @@ fn main() {
 {% media audio %}
 - title: 歌单名称 1
   list:
-    - https://music.163.com/#/playlist?id=12852445794
+    - https://music.163.com/#/playlist?id=5199214175
 - title: 歌单名称 2
   list:
-    - https://music.163.com/#/playlist?id=5199214175
+    - https://music.163.com/#/playlist?id=12852445794
 {% endmedia %}
 
 *视频播放器（`enableShokaHexoTags`）：*
